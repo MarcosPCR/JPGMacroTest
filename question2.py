@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-key = '8079bd5cf79240b2bf7ff87e0d82f367'
+key = 'chave'
 url = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
 id = 'CUUR0000SA0L1E'
 

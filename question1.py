@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 
-API_KEY = '8079bd5cf79240b2bf7ff87e0d82f367'
+API_KEY = 'chave'
 url = "https://api.bls.gov/publicAPI/v2/timeseries/data/"
 
 ids = {
